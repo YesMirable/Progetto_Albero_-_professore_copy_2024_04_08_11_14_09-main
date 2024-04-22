@@ -1,0 +1,18 @@
+html, body {
+  margin: 200px;
+  padding: 200px;
+
+}
+body {
+  background-color: #8888;
+}
+canvas {
+  display: block;
+}
+
+section.presentazion {
+  position:absolute;
+  top:100px;
+  color: white;
+  font-size: 1.8rem;
+}
